@@ -5,5 +5,6 @@ public class People {
 		//1111
                 //2222
 		System.out.println("people");
+		System.out.println("fuck");
 	}
 }
