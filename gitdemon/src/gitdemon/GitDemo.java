@@ -1,11 +1,9 @@
 package gitdemon;
 
 public class GitDemo {
+	private String name;
 	public static void main(String[] args) {
-		//1111
-                //2222
-		//3333
-		System.out.println("1111");
+		
 		
 	}
 }
